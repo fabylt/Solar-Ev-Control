@@ -1,6 +1,6 @@
 name: "Solar EV Control"
 description: "Pannello di controllo per la ricarica intelligente di auto elettriche con eccedenza fotovoltaica."
-version: "1.0.1"
+version: "1.0.2"
 slug: "solar_ev_control"
 init: false
 arch:

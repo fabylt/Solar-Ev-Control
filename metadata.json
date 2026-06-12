@@ -1,0 +1,6 @@
+{
+  "name": "Wallbox Solar Controller",
+  "description": "Pannello di controllo e simulatore per la ricarica intelligente di auto elettriche con Wallbox Pulsar Max ed eccedenza fotovoltaica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
